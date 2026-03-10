@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.11"
+
+[[package]]
+name = "flamesays-p10-hub12-screen"
+version = "0.1.0"
+source = { editable = "." }
