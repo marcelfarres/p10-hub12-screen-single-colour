@@ -30,3 +30,8 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+working-files/
+
+# graphify: the graph lives in the private working-files/internal/graphify-out; never commit it here
+/graphify-out
